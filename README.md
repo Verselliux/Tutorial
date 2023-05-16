@@ -1,4 +1,4 @@
-![](https://static.xomnia.com/2021/05/Polars_.png)
+![]([https://static.xomnia.com/2021/05/Polars_.png](https://squeaksandnibbles.com/wp-content/uploads/2022/03/polar-bear-cubs-header.jpg))
 
 ¿Que es Polars?
 Es una librería diseñada para trabajar con datos tabulares (DataFrames). Tiene como principal característica la capacidad de procesar grandes volúmenes de datos de forma rápida y eficiente, gracias a que maximiza el uso de todos los cores disponibles en un ordenador.
