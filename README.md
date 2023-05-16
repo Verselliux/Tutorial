@@ -1,3 +1,4 @@
+![](https://static.xomnia.com/2021/05/Polars_.png)
 
 ¿Que es Polars?
 Es una librería diseñada para trabajar con datos tabulares (DataFrames). Tiene como principal característica la capacidad de procesar grandes volúmenes de datos de forma rápida y eficiente, gracias a que maximiza el uso de todos los cores disponibles en un ordenador.
